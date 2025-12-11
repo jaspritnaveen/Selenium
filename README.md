@@ -1,2 +1,2 @@
 Automation testing codes
-Selenium with java
+Selenium with java and TESTNG
